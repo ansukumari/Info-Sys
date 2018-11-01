@@ -1,3 +1,5 @@
+#http://www.codekoala.com/posts/aes-encryption-python-using-pycrypto/
+
 import base64
 import hashlib
 from Crypto import Random
